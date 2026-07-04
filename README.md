@@ -64,8 +64,7 @@ The system identifies SDoH factors from clinical notes and generates:
 The project can be enhanced by integrating Machine Learning and Large Language Models (LLaMA, ClinicalBERT, SBERT), supporting multilingual clinical notes, connecting with Electronic Health Record (EHR) systems, storing historical patient data, and developing interactive dashboards for healthcare professionals.
 
 ## Authors
-
+* S. Pavankumar
 * G. Tejaswi
 * K. Pranitha
 * S. Surekha
-* S. Pavankumar
